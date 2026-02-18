@@ -55,7 +55,7 @@ file-hash-generator/
 
 Clone repository:
 
-git clone https://github.com/yourusername/file-hash-generator.git
+git clone https://github.com/Hero24-x/File-Hash-Generator/tree/main
 cd file-hash-generator
 
 No external dependencies required.
